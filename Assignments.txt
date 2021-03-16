@@ -1,0 +1,10 @@
+			Arav's Assignments
+
+AI:-
+    https://savagephoenix99.github.io/Artificial-Intelligence/
+First Table(Marklist):-
+    https://savagephoenix99.github.io/Artificial-Intelligence/
+Second Table(TimeTable)
+    https://savagephoenix99.github.io/Timetable/
+Third Table(Seminar Timetable with Rowspan and Colspan):-
+    https://savagephoenix99.github.io/Seminar-TimeTables/
